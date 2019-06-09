@@ -6,3 +6,6 @@ aaaaa
 bbbbbbb
 cccccccccc
 dddddddd
+0000000000
+$$$$$$$$$$$$
+@@@@@@@@@
